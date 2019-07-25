@@ -1,0 +1,55 @@
+body {
+    background-color: white; 
+}
+
+header {
+    background-color: whitesmoke;
+    position: fixed;
+    width: 100%;
+    display: inline-block;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    color: black;
+}
+ 
+h5 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 30px;
+}
+
+img {
+    padding-top: 20px;
+}
+
+footer {
+    background-color: black;
+    height: 50%;
+    text-align: center;
+}
+
+.menu {
+    padding-left: 15px;
+    width: 100%;
+}
+
+.menu a {
+    padding: 14px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background: white;
+    text-align: center;
+}
+
+#logo {
+    float: left;
+}
