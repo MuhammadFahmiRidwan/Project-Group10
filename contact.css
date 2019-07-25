@@ -31,7 +31,6 @@ img {
     margin-right: auto;
 }
 
-
 footer {
     background-color: black;
     height: 50%;
@@ -55,4 +54,8 @@ footer {
 
 #logo {
     float: left;
+}
+
+form {
+    padding: 20px;
 }
