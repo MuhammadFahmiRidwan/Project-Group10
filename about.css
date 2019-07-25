@@ -1,0 +1,78 @@
+body {
+    background-color: white; 
+}
+
+header {
+    background-color: whitesmoke;
+    width: 100%;
+    display: inline-block;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    color: black;
+}
+ 
+h5 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+footer {
+    background-color: black;
+    height: 50%;
+    text-align: center;
+    margin-top: 0;
+}
+
+.menu {
+    padding-left: 15px;
+    width: 100%;
+    color: black;
+}
+
+.menu a {
+    padding: 14px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background: white;
+    text-align: center;
+}
+
+#logo {
+    float: left;
+}
+
+.background {
+    padding: 350px 100px;
+    background-image: url(./img/budaya_indonesia_1_by_royyan.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.3;
+    margin-bottom: 0;
+}
+
+.text {
+    padding: 130px 50px;
+    text-align: center;
+    font-size: 2em;
+    color: black;
+    position: absolute;
+    
+}
